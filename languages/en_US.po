@@ -1,0 +1,186 @@
+# Copyright (C) 2022 Carl Felton
+# This file is distributed under the GPL2.
+msgid ""
+msgstr ""
+"Project-Id-Version: CarlFelton Sample Module 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/carlfelton-sample-"
+"module\n"
+"POT-Creation-Date: 2022-10-14 06:08:01+00:00\n"
+"PO-Revision-Date: 2022-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n1.0.2\n"
+
+#: includes/CarlfeltonSampleModule.php:78
+msgid "No Results Found"
+msgstr ""
+
+#: includes/modules/SimplePostsGrid/SimplePostsGrid.php:16
+msgid "Sample Posts Grid"
+msgstr ""
+
+#: includes/modules/SimplePostsGrid/SimplePostsGrid.php:39
+msgid "Content"
+msgstr ""
+
+#: includes/modules/SimplePostsGrid/SimplePostsGrid.php:43
+msgid "Elements"
+msgstr ""
+
+#: includes/modules/SimplePostsGrid/SimplePostsGrid.php:51
+msgid "Layout"
+msgstr ""
+
+#: includes/modules/SimplePostsGrid/SimplePostsGrid.php:64
+#: includes/modules/SimplePostsGrid/SimplePostsGrid.php:177
+msgid "Title"
+msgstr ""
+
+#: includes/modules/SimplePostsGrid/SimplePostsGrid.php:75
+msgid "Excerpt"
+msgstr ""
+
+#: includes/modules/SimplePostsGrid/SimplePostsGrid.php:89
+msgid "Read More Button"
+msgstr ""
+
+#: includes/modules/SimplePostsGrid/SimplePostsGrid.php:139
+msgid "Posts Types"
+msgstr ""
+
+#: includes/modules/SimplePostsGrid/SimplePostsGrid.php:140
+#: includes/modules/SimplePostsGrid/SimplePostsGrid.php:199
+#: includes/modules/SimplePostsGrid/SimplePostsGrid.php:211
+#: includes/modules/SimplePostsGrid/SimplePostsGrid.php:223
+#: includes/modules/SimplePostsGrid/SimplePostsGrid.php:236
+#: includes/modules/SimplePostsGrid/SimplePostsGrid.php:253
+msgid "..."
+msgstr ""
+
+#: includes/modules/SimplePostsGrid/SimplePostsGrid.php:143
+msgid "Posts"
+msgstr ""
+
+#: includes/modules/SimplePostsGrid/SimplePostsGrid.php:144
+msgid "Projects"
+msgstr ""
+
+#: includes/modules/SimplePostsGrid/SimplePostsGrid.php:145
+msgid "Pages"
+msgstr ""
+
+#: includes/modules/SimplePostsGrid/SimplePostsGrid.php:146
+msgid "Products"
+msgstr ""
+
+#: includes/modules/SimplePostsGrid/SimplePostsGrid.php:153
+msgid "Post Number"
+msgstr ""
+
+#: includes/modules/SimplePostsGrid/SimplePostsGrid.php:160
+msgid "Order"
+msgstr ""
+
+#: includes/modules/SimplePostsGrid/SimplePostsGrid.php:161
+msgid "Choose to order posts in ascending or descending order."
+msgstr ""
+
+#: includes/modules/SimplePostsGrid/SimplePostsGrid.php:164
+msgid "Ascending"
+msgstr ""
+
+#: includes/modules/SimplePostsGrid/SimplePostsGrid.php:165
+msgid "Descending"
+msgstr ""
+
+#: includes/modules/SimplePostsGrid/SimplePostsGrid.php:172
+msgid "Order By"
+msgstr ""
+
+#: includes/modules/SimplePostsGrid/SimplePostsGrid.php:173
+msgid "Choose a parameter to apply the order to."
+msgstr ""
+
+#: includes/modules/SimplePostsGrid/SimplePostsGrid.php:176
+msgid "Date"
+msgstr ""
+
+#: includes/modules/SimplePostsGrid/SimplePostsGrid.php:178
+msgid "Slug"
+msgstr ""
+
+#: includes/modules/SimplePostsGrid/SimplePostsGrid.php:179
+msgid "Random"
+msgstr ""
+
+#: includes/modules/SimplePostsGrid/SimplePostsGrid.php:187
+msgid "Show Feature Image"
+msgstr ""
+
+#: includes/modules/SimplePostsGrid/SimplePostsGrid.php:190
+#: includes/modules/SimplePostsGrid/SimplePostsGrid.php:202
+#: includes/modules/SimplePostsGrid/SimplePostsGrid.php:214
+#: includes/modules/SimplePostsGrid/SimplePostsGrid.php:226
+msgid "Yes"
+msgstr ""
+
+#: includes/modules/SimplePostsGrid/SimplePostsGrid.php:191
+#: includes/modules/SimplePostsGrid/SimplePostsGrid.php:203
+#: includes/modules/SimplePostsGrid/SimplePostsGrid.php:215
+#: includes/modules/SimplePostsGrid/SimplePostsGrid.php:227
+msgid "No"
+msgstr ""
+
+#: includes/modules/SimplePostsGrid/SimplePostsGrid.php:198
+msgid "Show Title"
+msgstr ""
+
+#: includes/modules/SimplePostsGrid/SimplePostsGrid.php:210
+msgid "Show Excerpt"
+msgstr ""
+
+#: includes/modules/SimplePostsGrid/SimplePostsGrid.php:222
+msgid "Show Read More"
+msgstr ""
+
+#: includes/modules/SimplePostsGrid/SimplePostsGrid.php:235
+msgid "Columns"
+msgstr ""
+
+#: includes/modules/SimplePostsGrid/SimplePostsGrid.php:252
+msgid "Space Between"
+msgstr ""
+
+#: includes/modules/SimplePostsGrid/SimplePostsGrid.php:287
+msgid "Read More"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "CarlFelton Sample Module"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://google.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Sample module for divi engine"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Carl Felton"
+msgstr ""

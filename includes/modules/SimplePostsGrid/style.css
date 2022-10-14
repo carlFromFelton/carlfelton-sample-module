@@ -1,0 +1,30 @@
+.cfsm-main-container {
+    display: grid;
+}
+
+.cfsm-item {
+    border: 1px solid #d3d3d3;
+    background: white;
+}
+
+.cfsm-item > *:not(.cfsm-item-image) {
+    margin-top: 8px;
+    padding: 0 8px;
+}
+
+.cfsm-item *:last-child {
+    margin-bottom: 8px;
+}
+
+.cfsm-item img {
+    display: block;
+}
+
+.cfsm-item .cfsm-read-more {
+    display: inline-block;
+}
+
+.cfsm-item .cfsm-read-more::after,
+.cfsm-item .cfsm-read-more::before {
+    content: attr(data-icon);
+}

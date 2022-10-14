@@ -1,0 +1,66 @@
+input.wpsde-input {
+    background: #f1f5f9;
+    max-height: 30px;
+    border: 0;
+    border-radius: 3px;
+    padding: 7px 10px;
+    box-sizing: border-box;
+    transition: background 200ms ease;
+    color: #4C5866;
+    font-family: 'Open Sans', Helvetica, Roboto, Arial, sans-serif;
+    font-size: 13px;
+    font-weight: 600;
+    line-height: normal;
+    display: block;
+    width: 100%;
+}
+
+input.wpsde-input:focus {
+    background: #e6ecf2;
+}
+
+input.wpsde-input::-webkit-input-placeholder {
+    color: #98a7b8;
+}
+
+input.wpsde-input:-moz-placeholder {
+    color: #98a7b8;
+}
+
+input.wpsde-input::-moz-placeholder {
+    color: #98a7b8;
+}
+
+input.wpsde-input:-ms-input-placeholder {
+    color: #98a7b8;
+}
+
+input.wpsde-input[readonly] {
+    background: #ffffff !important;
+    border: 1px solid #eaedf0 !important;
+    cursor: not-allowed;
+}
+
+/*  Module Box Branding */
+
+.et-db #et-boc .et-l .et-fb-modules-list li.wpsde_custom_button,
+.et-db #et-boc .et-l .et-fb-modules-list li.wpsde_gallery {
+    background-color: #2b2631;
+    color: #FC1;
+}
+
+.et-db #et-boc .et-l .et-fb-modules-list li.wpsde_custom_button:hover,
+.et-db #et-boc .et-l .et-fb-modules-list li.wpsde_gallery:hover {
+    color: #2b2631;
+    background-color: #FC1;
+}
+
+.et-db #et-boc .et-l .et-fb-modules-list li.wpsde_custom_button:before,
+.et-db #et-boc .et-l .et-fb-modules-list li.wpsde_gallery:before {
+    color: #f1f5f9;
+}
+
+.et-db #et-boc .et-l .et-fb-modules-list li.wpsde_custom_button:hover:before,
+.et-db #et-boc .et-l .et-fb-modules-list li.wpsde_gallery:hover:before {
+    color: #2b2631;
+}
